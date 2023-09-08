@@ -1,6 +1,6 @@
 <h1 align="center">👋 FAISAL ILYAS here </h1>
 <h3 align="center">A passionate frontend web developer and designer</h3>
-<p>👋 Hello there! I'm [Your Name], a passionate student of Computer Science with a deep love for crafting engaging digital experiences. As a Front-End Web Developer and UX/UI Designer, I'm on a mission to bring creativity and functionality together to build remarkable websites and applications.
+<p>👋 Hello there! I'm Faisal, a passionate student of Computer Science with a deep love for crafting engaging digital experiences. As a Front-End Web Developer and UX/UI Designer, I'm on a mission to bring creativity and functionality together to build remarkable websites and applications.
 
 🖥️ My journey in the world of technology began with a curiosity-driven exploration of coding languages and design principles. Over time, I've honed my skills in creating visually appealing user interfaces and ensuring seamless user experiences. Whether it's crafting pixel-perfect designs or writing clean, efficient code, I thrive on the challenges and opportunities that web development and design offer.
 
