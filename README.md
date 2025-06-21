@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Faisal Ilyas
 
-🎯 A dedicated Full Stack Mobile App Developer with a strong foundation in software engineering, currently pursuing a Bachelor's in Computer Science from UET Lahore (CGPA: 3.7/4.0). I specialize in Flutter, Firebase, and full-cycle app development—from UI/UX design to deployment on app stores.
+🎯 A dedicated Full Stack Mobile App Developer with a strong foundation in software engineering, currently pursuing a Bachelor's in Computer Science from UET Lahore. I specialize in Flutter, Firebase, and full-cycle app development—from UI/UX design to deployment on app stores.
 
 ---
 
@@ -79,7 +79,6 @@ Artificial Intelligence, Machine Learning, Software Engineering, Cloud Computing
 - 📧 Email: faisalilyas2005@gmail.com  
 - 💼 Portfolio Website: https://faisal-portfolio-5ddfc.web.app/  
 - 🔗 LinkedIn: https://linkedin.com/in/fayysal  
-- 🖥️ GitHub: https://github.com/syedfaisalilyas  
 - 🧑‍💻 Fiverr: https://fiverr.com/faisal_ilyas1
 
 ---
